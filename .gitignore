@@ -1,0 +1,54 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+ENV/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# HuggingFace / Transformers
+# =========================
+.cache/
+hf_cache/
+wandb/
+
+# =========================
+# Model Artifacts (DO NOT PUSH)
+# =========================
+lora_mistral_output/
+mistral-7b-merged/
+
+# =========================
+# Training Checkpoints
+# =========================
+checkpoint-*/
+optimizer.pt
+scheduler.pt
+rng_state.pth
+
+# =========================
+# Datasets (Optional)
+# =========================
+data/datasets_raw.json
+
+# =========================
+# Logs
+# =========================
+*.log
