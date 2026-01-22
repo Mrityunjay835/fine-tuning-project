@@ -119,13 +119,5 @@ Experiment with different LoRA ranks and target modules
 
 ## 📎 Disclaimer
 This project is intended for learning and demonstration purposes to showcase practical understanding of modern LLM fine-tuning techniques.
----
 
-## ✅ Why this version is correct (expert note)
-
-- Proper `##` headers → clean GitHub navigation
-- Code block formatting fixed (no broken backticks)
-- Bullet lists render correctly
-- Reads cleanly in **<30 seconds** (important for recruiters)
-- Interviewer-friendly structure
 
