@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates **end-to-end instruction fine-tuning** of **Mistral-7B** using **QLoRA (Quantized Low-Rank Adaptation)** on a consumer-grade GPU.
+This project demonstrates **end-to-end instruction fine-tuning** of **Mistral-7B** using **QLoRA (Quantized Low-Rank Adaptation)** on a consumer-grade GPU. Tuning with own GPU
 
 The primary goal was to improve:
 - 📉 Over-generation
